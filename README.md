@@ -2,7 +2,7 @@
 
 ### _Gericht Restaurant it is build with 💓 and react (Figma to Code) !!_
 
-### Link :link: https://rak-full-admin-dashboard.netlify.app/bar
+### Link :link: https://rak-gerichtrestaurant.netlify.app/
 
 ## Interface
 <img src="img.jpg" />
@@ -19,7 +19,6 @@
   - Menu
   - Awards
   - Contact
-
   - LogIn
   - Register
   - Book Table
